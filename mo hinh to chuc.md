@@ -148,10 +148,11 @@ flowchart TD
 
 ```mermaid
 
+
 flowchart LR
-    A(("R: Chính phủ (Ban Cán sự Đảng CP),<br/>Bộ Tư pháp")) -->|"1. Soạn thảo, đề xuất"| B(("C: Ban Kinh tế TW"))
+    A(("R: Chính phủ (Ban Cán sự Đảng CP),<br/>Bộ Tư pháp")) -->|"1- Soạn thảo, đề xuất"| B(("C: Ban Kinh tế TW"))
     
-    subgraph Step2["2. Góp ý & hoàn thiện"]
+    subgraph Step2["2- Góp ý và hoàn thiện"]
         B1(("Tổ Giúp việc"))
         B2(("Cục CĐS<br/>(nếu liên quan Đảng)"))
         B3(("Chuyên gia, DN"))
@@ -168,10 +169,10 @@ flowchart LR
     B3 -->|"Góp ý chuyên môn"| B
     B4 -->|"Tư vấn chính sách"| B
     
-    B -->|"3. Phản hồi, chỉnh sửa"| A
-    A -->|"4. Trình dự thảo"| C(("A: Quốc hội<br/>(Đảng đoàn QH phê duyệt)"))
-    C -->|"5. Ban hành luật/nghị quyết..."| A
-    A -->|"6. Thông tin kết quả"| D(("I: Ban Chỉ đạo TW,<br/>Văn phòng TW Đảng,<br/>MTTQ,<br/>Ban Tuyên giáo TW"))
+    B -->|"3- Phản hồi, chỉnh sửa"| A
+    A -->|"4- Trình dự thảo"| C(("A: Quốc hội<br/>(Đảng đoàn QH phê duyệt)"))
+    C -->|"5- Ban hành luật/nghị quyết..."| A
+    A -->|"6- Thông tin kết quả"| D(("I: Ban Chỉ đạo TW,<br/>Văn phòng TW Đảng,<br/>MTTQ,<br/>Ban Tuyên giáo TW"))
 
     classDef step fill:#f0f9ff,stroke:#90e0ef,stroke-width:1px,color:#0077b6
     classDef actor fill:#edf2ff,stroke:#4c6ef5,stroke-width:1px,color:#1c3fa0
@@ -198,9 +199,9 @@ flowchart LR
 flowchart LR
     subgraph subH["Hạ tầng số & Công nghệ"]
         direction LR
-        A(("R: Chính phủ (Bộ KH,CN & CĐS,<br/>Bộ Tài chính & ĐTPT,<br/>DN...)")) -->|"1. Triển khai dự án<br/>hạ tầng, TTDL"| B(("C: Ban Chỉ đạo TW"))
+        A(("R: Chính phủ (Bộ KH,CN & CĐS,<br/>Bộ Tài chính & ĐTPT,<br/>DN...)")) -->|"1- Triển khai dự án<br/>hạ tầng, TTDL"| B(("C: Ban Chỉ đạo TW"))
         
-        subgraph step2["2. Tham vấn và kiểm tra"]
+        subgraph step2["2- Tham vấn và kiểm tra"]
             direction LR
             B1(("Tổ Giúp việc"))
             B2(("Cục CĐS<br/>(nếu liên quan Đảng)"))
@@ -218,12 +219,12 @@ flowchart LR
         B3 -->|"Tư vấn chuyên môn"| B
         B4 -->|"Góp ý chiến lược"| B
         
-        B -->|"3. Phản hồi, điều chỉnh"| A
+        B -->|"3- Phản hồi, điều chỉnh"| A
     end
     
-    A -->|"4. Báo cáo tiến độ"| C(("A: Thủ tướng"))
-    C -->|"5. Chỉ đạo thực hiện"| A
-    A -->|"6. Cập nhật"| D(("I: Quốc hội,<br/>Văn phòng TW Đảng,<br/>MTTQ..."))
+    A -->|"4- Báo cáo tiến độ"| C(("A: Thủ tướng"))
+    C -->|"5- Chỉ đạo thực hiện"| A
+    A -->|"6- Cập nhật"| D(("I: Quốc hội,<br/>Văn phòng TW Đảng,<br/>MTTQ..."))
 
     classDef step fill:#ffffff,stroke:#4c6ef5,stroke-width:1px,color:#1c3fa0
     classDef actor fill:#ffffff,stroke:#4c6ef5,stroke-width:1px,color:#1c3fa0
@@ -251,9 +252,9 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    A(("R: Chính phủ (Bộ GD&ĐT,<br/>Bộ Nội vụ & Lao động,<br/>Bộ KH,CN & CĐS)")) -->|"1. Soạn chương trình,<br/>chính sách nhân tài"| B(("C: Ban Kinh tế TW"))
+    A(("R: Chính phủ (Bộ GD&ĐT,<br/>Bộ Nội vụ & Lao động,<br/>Bộ KH,CN & CĐS)")) -->|"1- Soạn chương trình,<br/>chính sách nhân tài"| B(("C: Ban Kinh tế TW"))
     
-    subgraph step2["2. Góp ý và hoàn thiện"]
+    subgraph step2["2- Góp ý và hoàn thiện"]
         direction LR
         B1(("Hội đồng tư vấn"))
         B2(("Cục CĐS<br/>(nếu liên quan Đảng)"))
@@ -271,9 +272,9 @@ flowchart LR
     B3 -->|"Đóng góp thực tiễn"| B
     B4 -->|"Tư vấn đào tạo"| B
     
-    B -->|"3. Phản hồi, điều chỉnh"| A
-    A -->|"4. Trình"| C(("A: Thủ tướng"))
-    A -->|"5. Thông tin kết quả"| D(("I: Ban Chỉ đạo TW,<br/>MTTQ,<br/>Ban Tuyên giáo TW"))
+    B -->|"3- Phản hồi, điều chỉnh"| A
+    A -->|"4- Trình"| C(("A: Thủ tướng"))
+    A -->|"5- Thông tin kết quả"| D(("I: Ban Chỉ đạo TW,<br/>MTTQ,<br/>Ban Tuyên giáo TW"))
 
     classDef step fill:#ffffff,stroke:#4c6ef5,stroke-width:1px,color:#1c3fa0
     classDef actor fill:#ffffff,stroke:#4c6ef5,stroke-width:1px,color:#1c3fa0
@@ -288,9 +289,9 @@ flowchart LR
 ```mermaid
 
 flowchart TB
-    A(("R: Chính phủ (Bộ Tài chính & ĐTPT,<br/>Bộ Công Thương...)")) -->|"1. Chính sách hỗ trợ DN,<br/>kích thích R&D, CĐS"| B(("C: Ban Chỉ đạo TW"))
+    A(("R: Chính phủ (Bộ Tài chính & ĐTPT,<br/>Bộ Công Thương...)")) -->|"1- Chính sách hỗ trợ DN,<br/>kích thích R&D, CĐS"| B(("C: Ban Chỉ đạo TW"))
     
-    subgraph step2["2. Tham vấn và góp ý"]
+    subgraph step2["2- Tham vấn và góp ý"]
         direction TB
         B1(("Ban Kinh tế TW"))
         B2(("Mặt trận TQ"))
@@ -308,10 +309,10 @@ flowchart TB
     B3 -->|"Góp ý từ<br/>thực tiễn DN"| B
     B4 -->|"Tư vấn<br/>kỹ thuật"| B
     
-    B -->|"3. Tổng hợp,<br/>hoàn thiện"| A
-    A -->|"4. Phê duyệt chi tiết"| C(("A: Thủ tướng"))
-    A -->|"5. Báo cáo tiến độ"| C
-    C -->|"6. Thông tin"| D(("I: Quốc hội,<br/>Văn phòng TW Đảng,<br/>Ban Tuyên giáo TW"))
+    B -->|"3- Tổng hợp,<br/>hoàn thiện"| A
+    A -->|"4- Phê duyệt chi tiết"| C(("A: Thủ tướng"))
+    A -->|"5- Báo cáo tiến độ"| C
+    C -->|"6- Thông tin"| D(("I: Quốc hội,<br/>Văn phòng TW Đảng,<br/>Ban Tuyên giáo TW"))
 
     classDef step fill:#ffffff,stroke:#4c6ef5,stroke-width:1px,color:#1c3fa0
     classDef actor fill:#ffffff,stroke:#4c6ef5,stroke-width:1px,color:#1c3fa0
@@ -327,9 +328,9 @@ Code:
 ```mermaid
 
 flowchart LR
-    A(("R: Chính phủ<br/>(Bộ Công an,<br/>Bộ KH,CN & CĐS)")) -->|"1. Soạn thảo thể chế<br/>và triển khai"| B(("C: Ban Chỉ đạo TW"))
+    A(("R: Chính phủ<br/>(Bộ Công an,<br/>Bộ KH,CN & CĐS)")) -->|"1- Soạn thảo thể chế<br/>và triển khai"| B(("C: Ban Chỉ đạo TW"))
     
-    subgraph step2["2. Góp ý và phối hợp"]
+    subgraph step2["2- Góp ý và phối hợp"]
         direction LR
         B1(("Ủy ban QP-AN QH"))
         B2(("Ban Kinh tế TW"))
@@ -347,9 +348,9 @@ flowchart LR
     B3 -->|"Tư vấn kỹ thuật"| B
     B4 -->|"Phối hợp triển khai"| B
     
-    B -->|"3. Tổng hợp,<br/>hoàn thiện"| A
-    A -->|"4. Chỉ đạo chi tiết"| C(("A: Thủ tướng"))
-    A -->|"5. Cập nhật"| D(("I: Văn phòng TW Đảng,<br/>Mặt trận TQ,<br/>Ban Tuyên giáo TW,<br/>Quốc hội..."))
+    B -->|"3- Tổng hợp,<br/>hoàn thiện"| A
+    A -->|"4- Chỉ đạo chi tiết"| C(("A: Thủ tướng"))
+    A -->|"5- Cập nhật"| D(("I: Văn phòng TW Đảng,<br/>Mặt trận TQ,<br/>Ban Tuyên giáo TW,<br/>Quốc hội..."))
 
     classDef step fill:#ffffff,stroke:#4c6ef5,stroke-width:1px,color:#1c3fa0
     classDef actor fill:#ffffff,stroke:#4c6ef5,stroke-width:1px,color:#1c3fa0
@@ -365,9 +366,9 @@ Code:
 ```mermaid
 
 flowchart TB
-    A(("R: Ban Tuyên giáo TW")) -->|"1. Quán triệt,<br/>định hướng dư luận"| B(("A: Ban Bí thư (Bộ Chính trị)"))
+    A(("R: Ban Tuyên giáo TW")) -->|"1- Quán triệt,<br/>định hướng dư luận"| B(("A: Ban Bí thư (Bộ Chính trị)"))
     
-    subgraph step2["2. Phối hợp và tham mưu"]
+    subgraph step2["2- Phối hợp và tham mưu"]
         direction TB
         C1(("Ban Chỉ đạo TW"))
         C2(("Ban Kinh tế TW"))
@@ -385,7 +386,7 @@ flowchart TB
     C3 -->|"Hỗ trợ<br/>điều phối"| A
     C4 -->|"Tham mưu<br/>kỹ thuật"| A
     
-    subgraph blockM["3. Mặt trận TQ VN & Tổ chức CT-XH"]
+    subgraph blockM["3- Mặt trận TQ VN & Tổ chức CT-XH"]
         M1(("R: MTTQ,<br/>đoàn thể")) -->|"Vận động,<br/>phản biện XH"| M2(("A: Ban Bí thư"))
         M1 -->|"Phối hợp"| A
     end
@@ -405,9 +406,9 @@ Code:
 
 flowchart LR
     subgraph SubGroup["Giám sát & Đánh giá"]
-        A(("R: Văn phòng TW Đảng<br/>(Tổ Giúp việc Ban Chỉ đạo)")) -->|"1. Giám sát,<br/>đánh giá"| B(("C: Ban Kinh tế TW"))
+        A(("R: Văn phòng TW Đảng<br/>(Tổ Giúp việc Ban Chỉ đạo)")) -->|"1- Giám sát,<br/>đánh giá"| B(("C: Ban Kinh tế TW"))
 
-        subgraph step2["2. Phản hồi và báo cáo"]
+        subgraph step2["2- Phản hồi và báo cáo"]
             direction TB
             B1(("Chính phủ"))
             B2(("Quốc hội"))
@@ -425,8 +426,8 @@ flowchart LR
         B3 -->|"Phản hồi xã hội"| B
         B4 -->|"Dữ liệu truyền thông<br/>& kỹ thuật"| B
 
-        B -->|"3. Tổng hợp<br/>phản hồi"| A
-        A -->|"4. Báo cáo định kỳ,<br/>đột xuất"| C(("A: Ban Chỉ đạo TW,<br/>Bộ Chính trị"))
+        B -->|"3- Tổng hợp<br/>phản hồi"| A
+        A -->|"4- Báo cáo định kỳ,<br/>đột xuất"| C(("A: Ban Chỉ đạo TW,<br/>Bộ Chính trị"))
     end
 
     classDef step fill:#ffffff,stroke:#4c6ef5,stroke-width:1px,color:#1c3fa0
@@ -453,9 +454,9 @@ flowchart LR
 ```mermaid
 
 flowchart TB
-    A(("R: Cục CĐS<br/>cơ quan Đảng")) -->|"1. Đề xuất sơ bộ,<br/>hồ sơ sáng kiến"| B(("C: Tổ Giúp việc"))
+    A(("R: Cục CĐS<br/>cơ quan Đảng")) -->|"1- Đề xuất sơ bộ,<br/>hồ sơ sáng kiến"| B(("C: Tổ Giúp việc"))
     
-    subgraph step2["2. Thẩm định và tổng hợp"]
+    subgraph step2["2- Thẩm định và tổng hợp"]
         direction TB
         B1(("Hội đồng tư vấn"))
         B2(("VP TW Đảng"))
@@ -473,10 +474,10 @@ flowchart TB
     B3 -->|"Đánh giá kỹ thuật"| B
     B4 -->|"Phân tích tác động"| B
     
-    B -->|"3. Tổng hợp,<br/>hoàn thiện"| A
-    B -->|"4. Trình"| C(("A: Ban Chỉ đạo TW"))
-    A -->|"5. Thực thi,<br/>giám sát"| C
-    C -->|"6. Quyết nghị,<br/>báo cáo cao nhất"| D(("Tổng Bí thư /<br/>Bộ Chính trị")):::tb
+    B -->|"3- Tổng hợp,<br/>hoàn thiện"| A
+    B -->|"4- Trình"| C(("A: Ban Chỉ đạo TW"))
+    A -->|"5- Thực thi,<br/>giám sát"| C
+    C -->|"6- Quyết nghị,<br/>báo cáo cao nhất"| D(("Tổng Bí thư /<br/>Bộ Chính trị")):::tb
 
     classDef tb fill:#ffadad,stroke:#ff6363,stroke-width:2px,color:#ffffff
     classDef step fill:#ffffff,stroke:#4c6ef5,stroke-width:1px,color:#1c3fa0
