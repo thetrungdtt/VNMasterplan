@@ -1,7 +1,3 @@
-Chắc chắn rồi, đây là nội dung được chuyển sang markdown format tiếng Việt:
-
----
-
 PHỤ LỤC II
 
 DANH MỤC CÁC NHIỆM VỤ TRIỂN KHAI CHƯƠNG TRÌNH HÀNH ĐỘNG CỦA CHÍNH PHỦ THỰC HIỆN NGHỊ QUYẾT SỐ 57-NQ/TW NGÀY 22 THÁNG 12 NĂM 2024 CỦA BỘ CHÍNH TRỊ VỀ ĐỘT PHÁT TRIỂN KHOA HỌC, CÔNG NGHỆ, ĐỔI MỚI SÁNG TẠO VÀ CHUYỂN ĐỔI SỐ QUỐC GIA
