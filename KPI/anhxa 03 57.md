@@ -1,23 +1,70 @@
 # Ánh xạ Chỉ số CP03 với mục tiêu NQ57
 
-| MT57 | Giai đoạn | CSCP tương ứng |
-| :---- | ----- | ----- |
-| **1\. Năm 2025 (Mục tiêu ngắn hạn)** |  |  |
-| a) Thiết lập các cơ quan chỉ đạo | 2025 | *Không có chỉ số cụ thể trong CSCP. Tuy nhiên, việc ban hành Nghị quyết về Chương trình hành động này đã thể hiện bước đầu của việc thiết lập cơ quan chỉ đạo.* |
-| b) Nâng cao nhận thức và đào tạo nguồn nhân lực | 2025 | *Không có chỉ số cụ thể trong CSCP về hội nghị quán triệt và tuyên truyền. Về đào tạo, CSCP chưa đề cập trực tiếp nhưng có thể gián tiếp thông qua các chỉ số về dịch vụ công trực tuyến (11.1, 11.2), xử lý hồ sơ trên môi trường điện tử (11.10) \- là nền tảng cho "học tập số".* |
-| c) Hoàn thiện thể chế cốt lõi | 2025 | Các chỉ số về thủ tục hành chính, dịch vụ công (11.1 \- 11.12) phản ánh việc hoàn thiện thể chế. Tuy nhiên, chưa có chỉ số cụ thể về việc sửa đổi, bổ sung, ban hành luật, nghị định, thông tư. |
-| d) Phát triển hạ tầng số và dữ liệu | 2025 | Các chỉ số về hạ tầng số (23 \- 23.4) và dữ liệu (27, 28, 29\) thể hiện mục tiêu này. Tuy nhiên, chưa có chỉ số cho năm 2025, chủ yếu tập trung vào mục tiêu 2030\. |
-| đ) Hỗ trợ doanh nghiệp chuyển đổi số và đổi mới sáng tạo | 2025 | *Không có chỉ số cụ thể trong CSCP cho năm 2025\. Có thể liên hệ gián tiếp với chỉ số 13 (tỉ lệ doanh nghiệp có hoạt động đổi mới sáng tạo) nhưng mục tiêu là đến năm 2030\.* |
-| **2\. Mục tiêu đến 2030** |  |  |
-| a) Nền tảng KH-CN tiên tiến | 2030 | 1, 2, 3, 4, 5, 6, 20, 21, 22 |
-| b) Tăng trưởng dựa trên TFP và kinh tế số | 2030 | 8, 9, 10, 12, 35 |
-| c) Hệ sinh thái đổi mới sáng tạo phát triển toàn diện | 2030 | 7, 13 |
-| d) Phát triển hạ tầng số, dữ liệu, kết nối 5G/6G | 2030 | 23, 23.1, 23.2, 23.3, 23.4, 24, 26, 27, 28, 29, 31 |
-| đ) Phát triển nguồn nhân lực, tổ chức KHCN | 2030 | 18, 19, 32, 34 |
-| **3\. Mục tiêu đến năm 2045 (Mục tiêu dài hạn)** |  |  |
-| a) Việt Nam trở thành nước phát triển, thu nhập cao | 2045 | 36 |
-| b) Nhóm 30 nước dẫn đầu về ĐMST, chuyển đổi số | 2045 | 37, 38, 39 |
-| c) Hệ sinh thái ĐMST, NC-PT đẳng cấp quốc tế | 2045 | 40, 41 |
+## Bảng Ánh Xạ Chỉ Số Chính NQ57 với Chỉ Tiêu Chính Phủ
+
+Dưới đây là bảng ánh xạ các chỉ số chính của NQ57 với các chỉ tiêu của Chính phủ (Phụ lục I), được phân theo nhóm, mốc thời gian và có giải thích về mối liên hệ:
+
+
+| Nhóm Chỉ Số NQ57 | KPIs Cụ Thể (NQ57) | Mốc 2030 | Mốc 2045 (dự kiến) | Chỉ Tiêu Chính Phủ (Phụ lục I) | Giải Thích Liên Hệ |
+| :-------------------- | :---------------------------------------- | :------- | :------------------ | :--------------------------------- | :-------------------- |
+| **Phát triển KHCN & ĐMST** | Tỉ lệ TFP trong GDP | > 55% | ~ 60% | **8. Tỉ lệ đóng góp của năng suất nhân tố tổng hợp (TFP) vào tăng trưởng kinh tế (%):** ≥ 55 | TFP là chỉ số chính của NQ57 và cũng là chỉ tiêu của Chính phủ. |
+|  | Tỉ lệ R&D/GDP | 2% | > 2.5% | **15. Kinh phí chi cho nghiên cứu phát triển (R&D) (% GDP):** 2 | R&D/GDP là chỉ số chính của NQ57, và chỉ tiêu số 15 đo lường trực tiếp chỉ số này. |
+|  | Tỉ lệ xã hội hoá đầu tư R&D | > 60% | > 70% | **16. Tỷ trọng kinh phí từ xã hội trên kinh phí chi cho nghiên cứu phát triển (R&D) (%):** > 60 | Chỉ tiêu số 16 đo lường tỷ lệ xã hội hóa đầu tư cho R&D, phản ánh đúng mục tiêu của NQ57. |
+|  | Tiềm lực, trình độ KHCN & ĐMST | Đạt mức tiên tiến ở nhiều lĩnh vực quan trọng |  | **1. Tiềm lực, trình độ khoa học, công nghệ và đổi mới sáng tạo:** Đạt mức tiên tiến ở nhiều lĩnh vực quan trọng, thuộc nhóm dẫn đầu trong các nước có thu nhập trung bình cao | Chỉ tiêu số 1 đánh giá tổng thể tiềm lực và trình độ KHCN & ĐMST, phản ánh đúng mục tiêu của NQ57 |
+|  |  |  |  | **3. Lĩnh vực khoa học, công nghệ:** Một số lĩnh vực đạt trình độ quốc tế | Chỉ tiêu số 3 phản ánh trực tiếp mục tiêu nâng cao trình độ KHCN ở một số lĩnh vực then chốt |
+|  |  |  |  | **14. Khoa học, công nghệ và đổi mới sáng tạo góp phần quan trọng trong xây dựng, phát triển giá trị văn hoá, xã hội, con người Việt Nam duy trì (HDI > 0,7)** | Chỉ tiêu số 14 cho thấy vai trò của KHCN và ĐMST trong phát triển bền vững |
+|  |  |  |  | **19. Tổ chức khoa học và công nghệ được xếp hạng khu vực và thế giới (40 - 50 tổ chức)** | Chỉ tiêu số 19 đánh giá năng lực của các tổ chức KHCN, phản ánh tiềm lực KHCN |
+|  |  |  |  | **20. Số lượng công bố khoa học quốc tế tăng trung bình (%/năm):** 10 | Chỉ tiêu số 20 đo lường kết quả nghiên cứu khoa học, phản ánh năng lực KHCN |
+|  |  |  |  | **21. Số lượng đơn đăng ký sáng chế, văn bằng bảo hộ sáng chế tăng trung bình (%/năm):** 16 - 18 | Chỉ tiêu số 21 đo lường hoạt động sáng chế, phản ánh tiềm lực ĐMST |
+|  |  |  |  | **22. Tỉ lệ đơn đăng ký sáng chế, văn bằng bảo hộ sáng chế khai thác thương mại (%):** 8 - 10 | Chỉ tiêu số 22 đo lường hiệu quả thương mại hóa kết quả nghiên cứu, phản ánh tiềm lực KHCN và ĐMST |
+|  |  |  |  | **37. Chỉ số đổi mới sáng tạo toàn cầu:** ≤ 30 | Chỉ tiêu số 37 phản ánh năng lực đổi mới sáng tạo tổng thể của quốc gia |
+| **Kinh tế số** | Tỉ trọng kinh tế số trong GDP | ≥ 30% | ≥ 50% | **10. Quy mô kinh tế số (% GDP):** ≥ 30 | Chỉ tiêu số 10 đo lường trực tiếp quy mô kinh tế số trong GDP, là chỉ số chính của NQ57. |
+|  |  |  | ≥ 50% | **36. Quy mô kinh tế số (% GDP):** ≥ 50 | Chỉ tiêu số 36 đo lường trực tiếp quy mô kinh tế số trong GDP cho mục tiêu 2045. |
+|  | Xuất khẩu công nghệ cao | > 50% xuất khẩu | > 70% xuất khẩu | **9. Tỉ trọng xuất khẩu sản phẩm công nghệ cao trên tổng giá trị hàng hoá xuất khẩu (%):** ≥ 50 | Chỉ tiêu số 9 đo lường tỷ trọng xuất khẩu công nghệ cao, là chỉ số chính của NQ57. |
+| **Hạ tầng số & Dữ liệu** | Phủ sóng 5G/6G | 5G toàn quốc | 6G diện rộng | **23.4. Phủ sóng 5G cho người dân (% dân số):** 99 | Chỉ tiêu số 23.4 đo lường trực tiếp tỷ lệ phủ sóng 5G, phản ánh đúng mục tiêu của NQ57. |
+|  |  |  |  | **23.1. Tỉ lệ người sử dụng có khả năng truy nhập băng rộng cố định với tốc độ trên 1Gb/s (%):** 100 | Chỉ tiêu số 23.1 phản ánh chất lượng hạ tầng băng rộng |
+|  | Hoàn thành các đô thị thông minh | Các TP trực thuộc TW | Phủ thêm các đô thị lớn | **24. Hoàn thành xây dựng đô thị thông minh các thành phố trực thuộc Trung ương và một số tỉnh, thành phố có đủ điều kiện:** ≥ 6 | Chỉ tiêu số 24 đo lường trực tiếp việc hoàn thành xây dựng đô thị thông minh, là chỉ số chính của NQ57. |
+|  | Mạng lưới trung tâm dữ liệu | Trung tâm dữ liệu quốc gia + vùng | Hệ thống trung tâm dữ liệu toàn quốc theo chuẩn quốc tế | **29. Hình thành các Trung tâm dữ liệu quốc gia:** ≥ 03 | Chỉ tiêu số 29 đo lường việc hình thành các trung tâm dữ liệu quốc gia, là chỉ số chính của NQ57. |
+|  |  |  |  | **23.2. Số tuyến cáp quang biển mới đưa vào hoạt động:** 09 | Chỉ tiêu số 23.2 phản ánh hạ tầng kết nối quốc tế |
+|  |  |  |  | **23.3. Tổng dung lượng thiết kế cáp quang trên biển (Tbps):** ≥ 350 | Chỉ tiêu số 23.3 phản ánh năng lực hạ tầng cáp quang biển |
+|  |  |  |  | **26. Quản lý nhà nước từ Trung ương đến địa phương trên môi trường số, kết nối và vận hành thông suốt giữa các cơ quan trong hệ thống chính trị (%):** 100 | Chỉ tiêu số 26 phản ánh mức độ ứng dụng số trong quản lý nhà nước |
+|  |  |  |  | **27. Hoàn thành xây dựng, kết nối, chia sẻ đồng bộ cơ sở dữ liệu quốc gia, cơ sở dữ liệu các ngành (%):** 100 | Chỉ tiêu số 27 phản ánh mức độ hoàn thiện hạ tầng dữ liệu |
+|  |  |  |  | **28. Hình thành sàn dữ liệu (sàn dữ liệu):** 5 | Chỉ tiêu số 28 phản ánh việc hình thành các sàn giao dịch dữ liệu |
+| **Đổi mới sáng tạo DN** | Tỉ lệ DN có hoạt động đổi mới sáng tạo | > 40% | > 70% | **2. Trình độ, năng lực công nghệ, đổi mới sáng tạo của doanh nghiệp:** Đạt mức trên trung bình của thế giới | Chỉ tiêu số 2 đánh giá năng lực công nghệ và ĐMST của DN |
+|  |  |  |  | **13. Tỉ lệ doanh nghiệp có hoạt động đổi mới sáng tạo (%):** ≥ 40 | Chỉ tiêu số 13 đo lường trực tiếp tỷ lệ DN có hoạt động ĐMST, là chỉ số chính của NQ57. |
+|  | Số doanh nghiệp công nghệ số đẳng cấp quốc tế | ≥ 5 DN lớn | ≥ 10 DN lớn | **7. Số doanh nghiệp công nghệ số ngang tầm các nước tiên tiến:** ≥ 5 | Chỉ tiêu số 7 đo lường số lượng DN công nghệ số đẳng cấp quốc tế, là chỉ số chính của NQ57. |
+|  |  |  | ≥ 10 DN lớn | **39. Số doanh nghiệp công nghệ số ngang tầm các nước tiên tiến:** ≥ 10 | Chỉ tiêu số 39 đo lường số lượng DN công nghệ số đẳng cấp quốc tế cho mục tiêu 2045. |
+|  |  |  |  | **38. Tỉ lệ doanh nghiệp công nghệ số (số doanh nghiệp/1000 dân):** 1 | Chỉ tiêu số 38 phản ánh mật độ DN công nghệ số |
+| **Nhân lực** | Nguồn nhân lực R&D (người/1 vạn dân) | ≥ 12 | ≥ 15 | **18. Nguồn nhân lực nghiên cứu khoa học, phát triển công nghệ, đổi mới sáng tạo (người/vạn dân):** 12 | Chỉ tiêu số 18 đo lường trực tiếp nguồn nhân lực R&D, là chỉ số chính của NQ57. |
+|  | Công bố khoa học quốc tế tăng/năm | Tăng 10%/năm | Duy trì tăng 10%/năm | **20. Số lượng công bố khoa học quốc tế tăng trung bình (%/năm):** 10 | Chỉ tiêu số 20 đo lường số lượng công bố khoa học quốc tế, là chỉ số chính của NQ57. |
+| **Xã hội số** | Tỉ lệ sử dụng dịch vụ công trực tuyến | > 80% | ~ 95% | **11.1. Tỉ lệ sử dụng dịch vụ công trực tuyến của người dân và doanh nghiệp (%):** ≥ 80 | Chỉ tiêu số 11.1 đo lường trực tiếp tỷ lệ sử dụng dịch vụ công trực tuyến, là chỉ số chính của NQ57. |
+|  |  |  |  | **11.2. Tỉ lệ cung cấp dịch vụ công trực tuyến toàn trình trên tổng số thủ tục hành chính có đủ điều kiện (%):** 90 | Chỉ tiêu số 11.2 phản ánh mức độ cung cấp dịch vụ công trực tuyến toàn trình |
+|  |  |  |  | **11.3. Tỉ lệ hồ sơ hợp lệ, kết quả giải quyết thủ tục hành chính (%):** 100 | Chỉ tiêu số 11.3 phản ánh chất lượng giải quyết thủ tục hành chính |
+|  |  |  |  | **11.4. Tỉ lệ cấp kết quả giải quyết thủ tục hành chính điện tử (%):** 100 | Chỉ tiêu số 11.4 phản ánh mức độ ứng dụng số trong giải quyết TTHC |
+|  |  |  |  | **11.5. Tỉ lệ khai thác, sử dụng lại thông tin, dữ liệu đã được số hóa trong giải quyết thủ tục hành chính, dịch vụ công (%):** 80 | Chỉ tiêu số 11.5 phản ánh hiệu quả khai thác dữ liệu số |
+|  |  |  |  | **11.6. Tỉ lệ thanh toán trực tuyến trong giải quyết thủ tục hành chính, dịch vụ công (%):** 80 | Chỉ tiêu số 11.6 phản ánh mức độ ứng dụng thanh toán trực tuyến |
+|  |  |  |  | **11.7. Tỉ lệ thủ tục hành chính được tiếp nhận, giải quyết phi địa giới hành chính giữa trung ương và địa phương, giữa các cấp chính quyền (%):** 70 | Chỉ tiêu số 11.7 phản ánh mức độ liên thông trong giải quyết TTHC |
+|  |  |  |  | **11.8. Tỉ lệ cắt giảm hoặc tự động hóa thủ tục hành chính về cấp phép (%):** ≥ 30 | Chỉ tiêu số 11.8 phản ánh mức độ cải cách TTHC |
+|  |  |  |  | **11.9. Tỉ lệ cắt giảm thủ tục hành chính nội bộ giữa các cơ quan nhà nước trong thực hiện cấp phép (%):** 50 | Chỉ tiêu số 11.9 phản ánh mức độ cải cách TTHC nội bộ |
+|  |  |  |  | **11.10. Tỉ lệ xử lý văn bản, hồ sơ công việc toàn trình trên môi trường điện tử của các cơ quan hành chính nhà nước (%):** 100 | Chỉ tiêu số 11.10 phản ánh mức độ ứng dụng số trong xử lý công việc |
+|  |  |  |  | **11.11. Tỉ lệ nhiệm vụ được theo dõi, quản lý, giám sát của các cơ quan hành chính thực hiện trên môi trường điện tử (%):** 100 | Chỉ tiêu số 11.11 phản ánh mức độ ứng dụng số trong quản lý, giám sát |
+|  |  |  |  | **11.12. Tỉ lệ các cơ quan nhà nước thực hiện chỉ đạo, điều hành, quản trị nội bộ trên môi trường điện tử (%):** 100 | Chỉ tiêu số 11.12 phản ánh mức độ ứng dụng số trong chỉ đạo, điều hành |
+|  | Giao dịch không dùng tiền mặt | ≥ 80% | ≥ 90% | **12. Tỉ lệ giao dịch không dùng tiền mặt (%):** ≥ 80 | Chỉ tiêu số 12 đo lường trực tiếp tỷ lệ giao dịch không dùng tiền mặt, là chỉ số chính của NQ57. |
+|  |  |  |  | **30. Dân số từ 15 tuổi trở lên có tài khoản ngân hàng (%):** ≥ 95 | Chỉ tiêu số 30 phản ánh mức độ phổ cập tài khoản ngân hàng |
+|  |  |  |  | **31. Tỷ lệ dân số trưởng thành có chữ ký hoặc chữ ký điện tử cá nhân (%):** ≥ 70 | Chỉ tiêu số 31 phản ánh mức độ phổ cập chữ ký số |
+|  |  |  |  | **32. Tỷ lệ người dân có hồ sơ sức khỏe điện tử (%):** ≥ 95 | Chỉ tiêu số 32 phản ánh mức độ số hóa hồ sơ sức khỏe |
+|  |  |  |  | **35. Tỷ lệ Make in Vietnam trong tổng doanh thu công nghiệp số Việt Nam (%):** 50 | Chỉ tiêu số 35 phản ánh năng lực tự chủ công nghệ số |
+
+**Nhận xét:**
+
+*   Bảng ánh xạ cho thấy mối liên hệ chặt chẽ giữa các chỉ số chính của NQ57 và các chỉ tiêu của Chính phủ.
+*   Hầu hết các chỉ số chính của NQ57 đều được cụ thể hóa thành các chỉ tiêu của Chính phủ, giúp việc theo dõi và đánh giá tiến độ thực hiện NQ57 trở nên dễ dàng hơn.
+*   Một số chỉ tiêu của Chính phủ không trực tiếp đo lường các chỉ số chính của NQ57 nhưng có liên quan mật thiết và góp phần đạt được các mục tiêu của NQ57 (ví dụ: các chỉ tiêu về hạ tầng số, nhân lực, cải cách TTHC,...).
+
+**Kết luận:**
+
+Bảng ánh xạ này là công cụ hữu ích để theo dõi và đánh giá tiến độ thực hiện NQ57. Nó cho thấy rõ ràng các mục tiêu của NQ57 đã được cụ thể hóa thành các chỉ tiêu cụ thể của Chính phủ, tạo điều kiện thuận lợi cho việc triển khai và giám sát thực hiện.
+
 
 # Ánh xạ nhiệm vụ CP03 với Chỉ số CP03
 
