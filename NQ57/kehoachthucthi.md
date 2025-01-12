@@ -64,8 +64,6 @@
 
 ## **III. CÁC CHỈ SỐ CHÍNH**
 
-# III. CÁC CHỈ SỐ CHÍNH
-
 | Nhóm Chỉ Số | KPIs Cụ Thể | Mốc 2030 | Mốc 2045 (dự kiến) |
 |-------------|-------------|-----------|-------------------|
 | **Phát triển KHCN & ĐMST** | - Tỉ lệ TFP trong GDP<br>- Tỉ lệ R&D/GDP<br>- Tỉ lệ xã hội hoá đầu tư R&D | - > 55%<br>- 2%<br>- > 60% | - ~ 60%<br>- > 2.5%<br>- > 70% |
